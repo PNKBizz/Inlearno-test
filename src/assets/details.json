@@ -1,0 +1,20 @@
+{
+    "details": [
+        {
+            "id": 1, 
+            "name": "Название",
+            "description": "Описание1", 
+            "image": "http://via.placeholder.com/350x150",
+            "latitude": 54.122616, 
+            "longitude": 63.331964
+        },
+        {
+            "id": 2, 
+            "name": "Еще одно название",
+            "description": "Описание2", 
+            "image": "http://via.placeholder.com/350x150", 
+            "latitude": 54.222616, 
+            "longitude": 63.431964
+        }
+    ]
+}
