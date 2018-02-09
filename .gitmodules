@@ -1,0 +1,3 @@
+[submodule "src/temp"]
+	path = src/temp
+	url = https://github.com/PNKBizz/temp_module.git

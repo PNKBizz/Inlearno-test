@@ -9,7 +9,7 @@ const router = express.Router()
 
 router.get('/api/data', async (req, res) => {
     try {
-        const data = await readJsonAsync('./src/assets/data.json')
+        const data = await readJsonAsync('./src/temp/data.json')
         res.send(data.data)
     } catch (err) {
         res.status(500).send('Something went wrong')
